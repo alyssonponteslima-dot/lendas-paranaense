@@ -53,3 +53,9 @@ img {
     margin: auto;
     border-radius: 12px;
 }
+figcaption {
+    text-align: center;
+    font-size: 14px;
+    color: aliceblue;
+    margin-top: 8px;
+}
